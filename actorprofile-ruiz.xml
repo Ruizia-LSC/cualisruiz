@@ -5,7 +5,7 @@
 <name type="text">Robert Downey, Jr.</name>
 <dob type="date">April 4, 1965</dob>
 <height type="text">5’9"</height>
-	<Films>
+	<films>
 		<film>
  			<title>The Avengers</title>
  			<releaseyear>2012</releaseyear>
@@ -31,13 +31,13 @@
  			<releaseyear>2009</releaseyear>
 			 <role>Sherlock Holmes</role>
  		</film>
- </Films>
+ </films>
 </actor>
 <actor>
 <name type="text">Chris Evans</name>
 <dob type="date">June 13, 1981</dob>
 <height type="text">6’0"</height>
-	<Films>
+	<films>
 		<film>
  			<title>The Avengers</title>
  			<releaseyear>2012</releaseyear>
@@ -48,13 +48,13 @@
  			<releaseyear>2011</releaseyear>
 			 <role>Iron Man</role>
  		</film>
- </Films>
+ </films>
 </actor>
 <actor>
 <name type="text">Chris Hemsworth</name>
 <dob type="date">August 11, 1983</dob>
 <height type="text">6’4"</height>
-<Films>
+<films>
 		<film>
  			<title>The Avengers</title>
  			<releaseyear>2012</releaseyear>
@@ -65,13 +65,13 @@
  			<releaseyear>2011</releaseyear>
 			 <role>Thor</role>
  		</film>
- </Films>
+ </films>
 </actor>
 <actor>
 <name type="text">Scarlett Johansson</name>
 <dob type="date">November 22, 1984</dob>
 <height type="text">5’4"</height>
-<Films>
+<films>
 		<film>
  			<title>The Avengers</title>
  			<releaseyear>2012</releaseyear>
@@ -87,26 +87,26 @@
  			<releaseyear>2011</releaseyear>
 			 <role>Kelly Foster</role>
  		</film>
- </Films>
+ </films>
 
 </actor>
 <actor>
 <name type="text">Mark Ruffalo</name>
 <dob type="date">November 22, 1967</dob>
 <height type="text">5’8"</height>
-<Films>
+<films>
 		<film>
  			<title>The Avengers</title>
  			<releaseyear>2012</releaseyear>
 			 <role>Hulk</role>
  		</film>
- </Films>
+ </films>
 </actor>
 <actor>
 <name type="text">Jeremy Renner</name>
 <dob type="date">January 7, 1971</dob>
 <height type="text">5’9"</height>
-<Films>
+<films>
 		<film>
  			<title>The Avengers</title>
  			<releaseyear>2012</releaseyear>
@@ -117,6 +117,6 @@
  			<releaseyear>2011</releaseyear>
 			 <role>Brandt</role>
  		</film>
- </Films>
+ </films>
 </actor>
 </actorprofile>
